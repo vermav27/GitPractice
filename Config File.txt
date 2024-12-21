@@ -1,6 +1,6 @@
 This File contains details about the users of the file : 
-Anil Verma is a founder.
-Saroj Verma
-Vineet Verma is doing job.
-Ankita Verma is a founder.
-Kunal Verma is doing job.
+Anil Verma is a founder since 1980.
+Saroj Verma is a housewife since 1990.
+Vineet Verma is doing job since 2013.
+Ankita Verma is a founder since 2021.
+Kunal Verma is doing job since 2023.
