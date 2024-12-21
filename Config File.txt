@@ -1,6 +1,6 @@
-This File contains : 
-Anil is a founder.
-Saroj
-Vineet is doing job.
-Ankita is a founder.
-Kunal is doing job.
+This File contains details about the users of the file : 
+Anil Verma is a founder.
+Saroj Verma
+Vineet Verma is doing job.
+Ankita Verma is a founder.
+Kunal Verma is doing job.
