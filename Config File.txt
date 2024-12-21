@@ -1,6 +1,6 @@
 This File contains : 
-Anil is a founder
+Anil is a founder.
 Saroj
-Vineet is doing job
-Ankita is a founder
-Kunal is doing job
+Vineet is doing job.
+Ankita is a founder.
+Kunal is doing job.
