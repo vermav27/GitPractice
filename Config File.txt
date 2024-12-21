@@ -1,6 +1,6 @@
 This File contains : 
-Anil is a founder.
-Saroj
-Vineet is doing job.
-Ankita is a founder.
-Kunal is doing job.
+Anil is a founder since 1980.
+Saroj is a housewife since 1990.
+Vineet is doing job since 2013.
+Ankita is a founder since 2021.
+Kunal is doing job since 2023.
